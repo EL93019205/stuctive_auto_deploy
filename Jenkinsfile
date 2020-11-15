@@ -4,6 +4,7 @@ pipeline {
     stages {
         stage('Pull') {
             steps {
+                sh "pwd"
                 sh "./pull.sh"
             }
         }
