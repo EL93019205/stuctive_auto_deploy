@@ -1,6 +1,3 @@
-# 環境変数の表示
-printenv
-
 # ローカルにあるstuctiveを削除
 rm -rf stuctive
 
